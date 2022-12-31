@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-react-textbook-practice/static/css/main.5763847e.css",
-    "main.js": "/goit-react-textbook-practice/static/js/main.9576f120.js",
+    "main.js": "/goit-react-textbook-practice/static/js/main.552431a3.js",
     "index.html": "/goit-react-textbook-practice/index.html",
     "main.5763847e.css.map": "/goit-react-textbook-practice/static/css/main.5763847e.css.map",
-    "main.9576f120.js.map": "/goit-react-textbook-practice/static/js/main.9576f120.js.map"
+    "main.552431a3.js.map": "/goit-react-textbook-practice/static/js/main.552431a3.js.map"
   },
   "entrypoints": [
     "static/css/main.5763847e.css",
-    "static/js/main.9576f120.js"
+    "static/js/main.552431a3.js"
   ]
 }
