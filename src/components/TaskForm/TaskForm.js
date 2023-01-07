@@ -2,14 +2,10 @@ import { Button } from 'components/Button/Button';
 import css from './TaskForm.module.css';
 
 import { useDispatch } from 'react-redux';
-import { addTask, deleteTask, toggleCompleted } from 'redux/operations';
+import { addTask } from 'redux/operations';
 
-export const TaskForm = ({ task }) => {
+export const TaskForm = () => {
   const dispatch = useDispatch();
-
-  const handleDelete = () => dispatch(deleteTask(task.id));
-
-  const handleToggle = () => dispatch(toggleCompleted(task));
 
   const handleSubmit = event => {
     event.preventDefault();
@@ -21,16 +17,12 @@ export const TaskForm = ({ task }) => {
   return (
     <form className={css.form} onSubmit={handleSubmit}>
       <input
-        cheked={task.completed}
-        onChange={handleToggle}
         className={css.field}
         type="text"
         name="text"
         placeholder="Enter task text..."
       />
-      <Button type="submit" onClick={handleDelete}>
-        Add task
-      </Button>
+      <Button type="submit">Add task</Button>
     </form>
   );
 };

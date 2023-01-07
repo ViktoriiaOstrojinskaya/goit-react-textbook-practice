@@ -1,5 +1,6 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
+//import { getTasks } from './selectors';
 
 axios.defaults.baseURL = 'https://62584f320c918296a49543e7.mockapi.io';
 
@@ -43,8 +44,8 @@ export const toggleCompleted = createAsyncThunk(
   'tasks/toggleCompleted',
   async (task, thunkAPI) => {
     try {
-        const response = await axios.put(`/tasks/${task.id}`, {
-          completed: !task.completed,
+      const response = await axios.put(`/tasks/${task.id}`, {
+        completed: !task.completed,
       });
       return response.data;
     } catch (e) {
@@ -52,4 +53,3 @@ export const toggleCompleted = createAsyncThunk(
     }
   }
 );
-
