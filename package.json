@@ -1,9 +1,8 @@
 {
-  "name": "goit-textbook-lesson-15-16-auth-final",
-  "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
+  "name": "goit-react-textbook-practice",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://ViktoriiaOstrojinskaya.github.io/goit-react-textbook-practice/",
   "dependencies": {
     "@reduxjs/toolkit": "1.8.5",
     "axios": "0.27.2",
