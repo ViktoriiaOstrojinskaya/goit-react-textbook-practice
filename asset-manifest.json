@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/goit-react-textbook-practice/static/css/main.5763847e.css",
-    "main.js": "/goit-react-textbook-practice/static/js/main.f38ace86.js",
+    "main.css": "/goit-react-textbook-practice/static/css/main.a1f9979f.css",
+    "main.js": "/goit-react-textbook-practice/static/js/main.ac4ccdef.js",
+    "static/js/266.08d7c2fa.chunk.js": "/goit-react-textbook-practice/static/js/266.08d7c2fa.chunk.js",
+    "static/css/40.1e05f24e.chunk.css": "/goit-react-textbook-practice/static/css/40.1e05f24e.chunk.css",
+    "static/js/40.517cd4a7.chunk.js": "/goit-react-textbook-practice/static/js/40.517cd4a7.chunk.js",
+    "static/css/635.e2937cc9.chunk.css": "/goit-react-textbook-practice/static/css/635.e2937cc9.chunk.css",
+    "static/js/635.45febfb2.chunk.js": "/goit-react-textbook-practice/static/js/635.45febfb2.chunk.js",
+    "static/css/853.40e66e5b.chunk.css": "/goit-react-textbook-practice/static/css/853.40e66e5b.chunk.css",
+    "static/js/853.e3df6060.chunk.js": "/goit-react-textbook-practice/static/js/853.e3df6060.chunk.js",
+    "static/js/270.dc9e8005.chunk.js": "/goit-react-textbook-practice/static/js/270.dc9e8005.chunk.js",
     "index.html": "/goit-react-textbook-practice/index.html",
-    "main.5763847e.css.map": "/goit-react-textbook-practice/static/css/main.5763847e.css.map",
-    "main.f38ace86.js.map": "/goit-react-textbook-practice/static/js/main.f38ace86.js.map"
+    "main.a1f9979f.css.map": "/goit-react-textbook-practice/static/css/main.a1f9979f.css.map",
+    "main.ac4ccdef.js.map": "/goit-react-textbook-practice/static/js/main.ac4ccdef.js.map",
+    "266.08d7c2fa.chunk.js.map": "/goit-react-textbook-practice/static/js/266.08d7c2fa.chunk.js.map",
+    "40.1e05f24e.chunk.css.map": "/goit-react-textbook-practice/static/css/40.1e05f24e.chunk.css.map",
+    "40.517cd4a7.chunk.js.map": "/goit-react-textbook-practice/static/js/40.517cd4a7.chunk.js.map",
+    "635.e2937cc9.chunk.css.map": "/goit-react-textbook-practice/static/css/635.e2937cc9.chunk.css.map",
+    "635.45febfb2.chunk.js.map": "/goit-react-textbook-practice/static/js/635.45febfb2.chunk.js.map",
+    "853.40e66e5b.chunk.css.map": "/goit-react-textbook-practice/static/css/853.40e66e5b.chunk.css.map",
+    "853.e3df6060.chunk.js.map": "/goit-react-textbook-practice/static/js/853.e3df6060.chunk.js.map",
+    "270.dc9e8005.chunk.js.map": "/goit-react-textbook-practice/static/js/270.dc9e8005.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5763847e.css",
-    "static/js/main.f38ace86.js"
+    "static/css/main.a1f9979f.css",
+    "static/js/main.ac4ccdef.js"
   ]
 }
